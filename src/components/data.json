@@ -1,0 +1,58 @@
+    [
+    {
+        "Id": "1",
+        "Name": "Harsha",
+        "Email": "Harsha123@gmail.com",
+        "Mobil": "8765438921",
+        "Address": "Banglure",
+        "Services": "Abhat Catering Service"
+    },
+    {
+        "Id": "2",
+        "Name": "Kishore",
+        "Email": "Kishorereddy@gmail.com",
+        "Mobile": "8688753425",
+        "Address": "Hyd",
+        "Services": "Bhandan Catering Services"
+    },
+    {
+        "Id": "3",
+        "Name": "Vijay",
+        "Email": "Vijay234@gmail.com",
+        "Mobile": "9849470573",
+        "Address": "Vizag",
+        "Services": "Table Service"
+    },
+    {
+        "Id": "4",
+        "Name": "Sai",
+        "Email": "sai08@gmail.com",
+        "Mobile": "9963513680",
+        "Address": "Kadapa",
+        "Services": "Counter Service"
+    },
+    {
+        "Id": "5",
+        "Name": "Pavan",
+        "Email": "pavan67@gmail.com",
+        "Mobile": "6303035159",
+        "Address": "Tirupathi",
+        "Services": "Self Serives"
+    },
+    {
+        "Id": "6",
+        "Name": "Sunil",
+        "Email": "sunil12@gmail.com",
+        "Mobile": "9177377103",
+        "Address": "kakinada",
+        "Services": "Prix Mix Service"
+    },
+    {
+        "Id": "7",
+        "Name": "Aadi",
+        "Email": "Aadiymokshi@gmail.com",
+        "Mobile": "9908977289",
+        "Address": "Vizag",
+        "Services":"Mobile Payment Service"
+    }
+]
